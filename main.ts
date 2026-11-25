@@ -2,6 +2,8 @@
 // One sentence that could have replaced an entire pointless meeting:
 // the decision was already made before anyone sat down, and the
 // meeting itself was only the ceremony where we pretended to make it.
+// The sting is the double move: "hallway" says the real decision
+// happened elsewhere, "ceremony" says the meeting was pure theatre.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
